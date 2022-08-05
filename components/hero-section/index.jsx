@@ -42,7 +42,7 @@ const index = () => {
             </IconBtn>
           </div>
           <div className="flex flex-row">
-            <p className="text-xl mr-2 flex flex-row items-center">
+            <p className="text-2xl mr-2 flex flex-row items-center">
               <span>
                 <BsCurrencyDollar />
               </span>
